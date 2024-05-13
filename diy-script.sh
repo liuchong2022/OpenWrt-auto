@@ -46,6 +46,7 @@ git clone https://github.com/sirpdboy/luci-app-lucky.git package/lucky
 git clone https://github.com/sirpdboy/luci-app-eqosplus package/luci-app-eqosplus
 git clone https://github.com/sirpdboy/luci-app-advancedplus.git package/luci-app-advancedplus
 git clone https://github.com/sirpdboy/luci-app-parentcontrol.git package/luci-app-parentcontrol
+git clone https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git package/luci-app-unblockneteasemusic
 # git_sparse_clone master https://github.com/syb999/openwrt-19.07.1 package/network/services/msd_lite
 
 # 科学上网插件
